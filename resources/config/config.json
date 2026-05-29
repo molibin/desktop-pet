@@ -1,0 +1,21 @@
+{
+  "pet_width": 130,
+  "pet_height": 130,
+  "animation": "idle.gif",
+  "opacity": 1.0,
+  "always_on_top": true,
+  "auto_start": false,
+  "ai_api_key": "",
+  "ai_api_url": "https://api.deepseek.com/v1/chat/completions",
+  "ai_model": "deepseek-v4-flash",
+  "window_x": 1258,
+  "window_y": 281,
+  "anim_idle": "idle.gif",
+  "anim_drag": "drag.gif",
+  "anim_click": "click.gif",
+  "anim_talk": "talk.gif",
+  "anim_extra": {},
+  "rotation_enabled": true,
+  "rotation_interval": 30000,
+  "rotation_pool": []
+}
